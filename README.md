@@ -94,17 +94,3 @@ python app.py
 
 
 Open your browser at http://127.0.0.1:5000/
-
-👨‍💻 Author
-
-Pabbathi Satish Kumar
-
-📧 Email: pabbathisatishkumar@gmail.com
-
-💼 LinkedIn - https://www.linkedin.com/in/pabbathisatishkumar/
-
-🐙 GitHub - https://github.com/PABBATHI-SATISH-KUMAR
-
-⭐ Contribute
-
-Feel free to fork this repo, raise issues, or submit pull requests to improve the project!
